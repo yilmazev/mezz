@@ -1,1 +1,33 @@
-1.0.5
+Update 1.0.6
++ Header background image changed
++ Fixed bugs found in plugin file (CMS)
++ Nitro version updated
+
+Update 1.0.5.1
++ Fixed the issue where the group badge on the emulator and profile page was not visible
+
+Update 1.0.5
++ License system activated
++ A button has been made on the menu to access the admin panel
++ Fixed bugs in admin panel
+
+Update 1.0.4
++ Nitro React version has been upgraded
+
+Update 1.0.3
++ Made a Flash-like skin for Nitro V2
++ Fixed the room creation issue
+
+Update 1.0.2
++ Maintenance page is added.
++ NFT system is added.
++ Nitro Imager (devnitro.gq/?figure=)
++ CSS bug fixed
++ Fixed non-variable Habbo texts
++ Friends list display bug fixed in NitroV1
+
+Update 1.0.1
++ Flash login
++ NFT and more clothes
++ Flash camera fix
++ New config file
