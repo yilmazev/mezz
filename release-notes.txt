@@ -1,4 +1,4 @@
-Update 1.0.6
+CURRENTLY Update 1.0.6
 + Header background image changed
 + Fixed bugs found in plugin file (CMS)
 + Nitro version updated
